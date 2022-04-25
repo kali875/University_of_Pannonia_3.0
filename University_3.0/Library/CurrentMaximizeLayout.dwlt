@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 730.8
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 677, y: 471}
+  m_MaxSize: {x: 14000, y: 14021}
   vertical: 0
-  controlID: 130
+  controlID: 648
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,10 +135,10 @@ MonoBehaviour:
     y: 0
     width: 1260
     height: 730.8
-  m_MinSize: {x: 402, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 402, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 68
+  controlID: 649
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 618
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -217,10 +217,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 2688}
+      scrollPos: {x: 0, y: 2766.8}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: 6efbffff70fbffff58990000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -333,9 +333,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 63.76587, y: 71.45172, z: 68.81543}
+    m_Target: {x: -549.1588, y: 45.829327, z: -1370.4653}
     speed: 2
-    m_Value: {x: 63.76587, y: 71.45172, z: 68.81543}
+    m_Value: {x: -549.1588, y: 45.829327, z: -1370.4653}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -382,13 +382,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.25151646, y: -0.22590119, z: 0.05941541, w: -0.93962514}
+    m_Target: {x: -0.1591438, y: -0.22407113, z: 0.035925634, w: -0.9612575}
     speed: 2
-    m_Value: {x: -0.25142628, y: -0.22582018, z: 0.059394106, w: -0.9392882}
+    m_Value: {x: -0.1590769, y: -0.22397693, z: 0.035910532, w: -0.9608534}
   m_Size:
-    m_Target: 1277.501
+    m_Target: 23.96455
     speed: 2
-    m_Value: 1277.501
+    m_Value: 23.96455
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -486,14 +486,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "D:\\Egyetemes Oskol\xE1s\\4. f\xE9l\xE9v\\szoftverfejlesztes_github\\University_2.0"
+  m_LastProjectPath: "D:\\Egyetemes Oskol\xE1s\\4. f\xE9l\xE9v\\University_of_Pannonia_3.0\\University_3.0"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 71.79999}
-    m_SelectedIDs: 26940000
-    m_LastClickedID: 37926
-    m_ExpandedIDs: 00000000129400001494000016940000189400001a9400001c9400001e940000209400002294000024940000269400002894000000ca9a3b
+    scrollPos: {x: 0, y: 54.200012}
+    m_SelectedIDs: a2a00000
+    m_LastClickedID: 41122
+    m_ExpandedIDs: 000000008ea0000090a0000092a0000094a0000096a0000098a000009aa000009ca000009ea00000a0a00000a2a00000a4a0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -521,7 +521,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000129400001494000016940000189400001a9400001c9400001e9400002094000022940000249400002694000028940000
+    m_ExpandedIDs: 000000008ea0000090a0000092a0000094a0000096a0000098a000009aa000009ca000009ea00000a0a00000a2a00000a4a0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,8 +546,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 0e430000
-    m_LastClickedInstanceID: 17166
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -660,7 +660,7 @@ MonoBehaviour:
     m_CachedPref: 151
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 17166
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
